@@ -4,7 +4,7 @@ This is a fork of the "buji-oauth-demo":https://github.com/leleuj/buji-oauth-dem
 
 h2. Quick start & test
 
-To start quickly, build the project and launch the web app with Jetty:<pre><code>cd buji-oauth-demo
+To start quickly, build the project and launch the web app with Jetty:<pre><code>cd buji-guice-demo
 mvn clean install jetty:run</code></pre>
 
 To test:
@@ -16,8 +16,8 @@ Or click on another link to be authenticated through another provider: Google, L
 
 h2. Manual deployment
 
-You can also deploy manually this web app in your favourite web applications server:
-- buji-oauth-demo on http://localhost:8080/
+You can also deploy manually this web app into your favourite web applications server:
+- buji-guice-demo on http://localhost:8080/
 
 h2. License
 
